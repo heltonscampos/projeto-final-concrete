@@ -17,6 +17,7 @@ color:#0000ff !important;text-decoration:underline !important;}
 .comp_6{position:absolute;z-index:72415;}
 .comp_7{background-color:rgba(0,0,0,0);position:absolute;z-index:57470;}
 .comp_8{background-color:rgba(0,0,0,0);position:absolute;z-index:79890;}
+.comp_9{background-color:rgba(0,0,0,0);position:absolute;z-index:83620;}
 body{background-color:#ffffff;background-image:url(./wafx_res/Images/0--1-topo.png);background-repeat:repeat-x;}
 .blockPage{transform:scale(1) ;transform-origin:top left;width:1024px;}
 .blockPagecontainer{width:1024px;}
@@ -29,13 +30,14 @@ body{background-color:#ffffff;background-image:url(./wafx_res/Images/0--1-topo.p
 .compVis_6{display:block;}
 .compVis_7{display:block;}
 .compVis_8{display:block;}
+.compVis_9{display:block;}
 .comp_0{height:100px;left:0.5px;top:0px;width:163px;}
 .comp_0 .wafx-smt-txt-wrap{width:143px;}
 .comp_1{height:100px;left:163px;top:0px;width:163px;}
 .comp_1 .wafx-smt-txt-wrap{width:143px;}
 .comp_2{height:100px;left:326.5px;top:0px;width:163px;}
 .comp_2 .wafx-smt-txt-wrap{width:143px;}
-.comp_3{height:627px;left:346px;top:183.5px;width:332px;}
+.comp_3{height:627px;left:348px;top:183.5px;width:332px;}
 .comp_3 .wafx-img-picture{height:499px;left:0px;top:64px;width:332px;}
 .comp_4{height:203px;left:1px;top:543px;width:326px;}
 .comp_4 .wafx-smt-txt-wrap{width:306px;}
@@ -47,6 +49,8 @@ body{background-color:#ffffff;background-image:url(./wafx_res/Images/0--1-topo.p
 .comp_7 .wafx-smt-txt-wrap{width:306px;}
 .comp_8{height:203px;left:698px;top:544px;width:326px;}
 .comp_8 .wafx-smt-txt-wrap{width:306px;}
+.comp_9{height:100px;left:490px;top:0px;width:163px;}
+.comp_9 .wafx-smt-txt-wrap{width:143px;}
 .textShape_1024{display:block;}
 .waBlockSocialBar{display:none;}
 .wafx-vis-1024{display:block;}
@@ -116,3 +120,13 @@ color:#ffffff;margin:0px;padding:0px;margin-bottom:10px;overflow-wrap: break-wor
 .smt-wa-9-block-0 a{
 color:#0000ff !important;text-decoration:underline !important;}
 
+.smt-para-wa-10{
+margin:10px !important;align-self:center !important;
+}
+.smt-wa-10-block-0{
+color:#ffffff;margin:0px;padding:0px;margin-bottom:10px;overflow-wrap: break-word;text-decoration:none;line-height:100%;text-align:center;font-weight:400;font-style:normal;font-family:'Impact';font-size:24px;
+}
+.smt-wa-10-block-0 a{
+color:#ffffff !important;text-decoration:none !important;}
+.smt-wa-10-block-0 a:hover{
+color:#7f3a98 !important;text-decoration:none !important;}
