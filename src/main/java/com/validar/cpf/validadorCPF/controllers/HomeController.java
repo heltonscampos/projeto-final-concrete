@@ -24,6 +24,7 @@ public class HomeController {
       model.addAttribute("cliente", cliente);
       model.addAttribute("validado", cliente.validarCPF());
       if (cliente.validarCPF()){
+        //return "home/valida-cpf"
         return "redirect:/home.html";
       }
       return "home/valida-cpf";
