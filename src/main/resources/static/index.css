@@ -17,7 +17,6 @@ color:#0000ff !important;text-decoration:underline !important;}
 .comp_6{background-color:rgba(0,0,0,0);position:absolute;z-index:50230;}
 .comp_7{background-color:rgba(0,0,0,0);position:absolute;z-index:50465;}
 .comp_8{background-color:rgba(0,0,0,0);position:absolute;z-index:50935;}
-.comp_9{background-color:rgba(0,0,0,0);position:absolute;z-index:84560;}
 body{background-color:#ffffff;background-image:url(./wafx_res/Images/0--1-topo.png);background-repeat:repeat-x;}
 .blockPage{transform:scale(1) ;transform-origin:top left;width:1024px;}
 .blockPagecontainer{width:1024px;}
@@ -30,7 +29,6 @@ body{background-color:#ffffff;background-image:url(./wafx_res/Images/0--1-topo.p
 .compVis_6{display:block;}
 .compVis_7{display:block;}
 .compVis_8{display:block;}
-.compVis_9{display:block;}
 .comp_0{height:394px;left:0px;top:139px;width:660px;}
 .comp_0 .wafx-img-picture{height:394px;left:2px;top:0px;width:656px;}
 .comp_1{height:289px;left:679.03px;top:158.5px;width:317px;}
@@ -49,8 +47,6 @@ body{background-color:#ffffff;background-image:url(./wafx_res/Images/0--1-topo.p
 .comp_7 .wafx-smt-txt-wrap{width:143px;}
 .comp_8{height:100px;left:326.5px;top:0px;width:163px;}
 .comp_8 .wafx-smt-txt-wrap{width:143px;}
-.comp_9{height:100px;left:490px;top:0px;width:163px;}
-.comp_9 .wafx-smt-txt-wrap{width:143px;}
 .textShape_1024{display:block;}
 .waBlockSocialBar{display:none;}
 .wafx-vis-1024{display:block;}
@@ -120,14 +116,4 @@ color:#ffffff;margin:0px;padding:0px;margin-bottom:10px;overflow-wrap: break-wor
 .smt-wa-9-block-0 a{
 color:#ffffff !important;text-decoration:none !important;}
 .smt-wa-9-block-0 a:hover{
-color:#7f3a98 !important;text-decoration:none !important;}
-.smt-para-wa-10{
-margin:10px !important;align-self:center !important;
-}
-.smt-wa-10-block-0{
-color:#ffffff;margin:0px;padding:0px;margin-bottom:10px;overflow-wrap: break-word;text-decoration:none;line-height:100%;text-align:center;font-weight:400;font-style:normal;font-family:'Impact';font-size:24px;
-}
-.smt-wa-10-block-0 a{
-color:#ffffff !important;text-decoration:none !important;}
-.smt-wa-10-block-0 a:hover{
 color:#7f3a98 !important;text-decoration:none !important;}
